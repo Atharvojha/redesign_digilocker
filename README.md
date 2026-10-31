@@ -4,7 +4,7 @@ A UX case study: mapping where [DigiLocker](https://www.digilocker.gov.in/)'s us
 
 > **Unofficial concept.** Not affiliated with MeitY or NeGD. Every document, name and number in the prototype is fictional.
 
-**Run it:** open `index.html` in a browser. It's a single file with no build step.
+**Live demo:** [digilocker-redesign-concept.netlify.app](https://digilocker-redesign-concept.netlify.app/) · or open `index.html` locally. It's a single file with no build step.
 
 ---
 
